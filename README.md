@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Jeongwon's%20Github&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=🎆%20Jeongwon's%20Github&fontSize=70&fontColor=FAED7D)
 
 <!--
 **biz-jeongwon/biz-jeongwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
